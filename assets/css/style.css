@@ -16,6 +16,7 @@ body
     min-width: 1440px;
     background-color: #EEEEEE;
     padding-bottom: 35px;
+    cursor:default;
 }
 
 .h2d-31fcd4d
@@ -255,23 +256,27 @@ footer > p
 
 .h2d-ffc063f2 > li > a:hover, .header-link:hover, .footer-link:hover
 {
+    cursor:default;
     filter:brightness(0.7);
     text-shadow: 0px 0px 1px #f2f2f2;
 }
 
 .h2d-373ab399 > li > a > img:hover
 {
+    cursor:default;
     filter: brightness(0.4);
 }
 
 .h2d-5f90cc6 > a > img:hover, .h2d-b4cf56d6 > a > img:hover
 {
+    cursor:default;
     transition: 100ms;
     box-shadow: 0px 0px 8px 0px #acacac;
 }
 
 .section_resources > article > a > img:hover
 {
+    cursor:default;
     transition: 100ms;
     box-shadow: 0px 0px 12px 0px #757474;
 }
